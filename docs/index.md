@@ -2,7 +2,7 @@
 layout: home
 # 首页部分元素定制
 blog:
- name: 'Zuo Blog'
+ name: 'Zuo Blog11'
  logo: /logo.jpg
  avatarMode: card
  motto: ''
